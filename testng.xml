@@ -5,9 +5,5 @@
 			<class name = "one.NewTest"></class>
 			<class name = "one.NewTest2"></class>
 		</classes>
-		<classes>
-			<class name = "one.NewTest"></class>
-			<class name = "one.NewTest1"></class>
-		</classes>
 	</test>
 </suite>
