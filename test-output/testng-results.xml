@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Anyname" duration-ms="63" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+    <groups>
+    </groups>
+    <test name="AnyName" duration-ms="63" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+      <class name="one.NewTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:one.NewTest@12cc05a]" name="beforesuite" is-config="true" duration-ms="25" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:one.NewTest2@1933fd1]" name="beforesuite" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:one.NewTest2@1933fd1]" name="beforetest" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:one.NewTest@12cc05a]" name="beforetest" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:one.NewTest@12cc05a]" name="beforeclass" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:one.NewTest@12cc05a]" name="beforemethod" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testclass()[pri:0, instance:one.NewTest@12cc05a]" name="testclass" duration-ms="6" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclass -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:one.NewTest@12cc05a]" name="aftermethod" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:one.NewTest@12cc05a]" name="afterclass" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:one.NewTest2@1933fd1]" name="aftertest" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:one.NewTest@12cc05a]" name="aftertest" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:one.NewTest@12cc05a]" name="aftersuite" is-config="true" duration-ms="1" started-at="2018-03-21T07:58:12Z" finished-at="2018-03-21T07:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:one.NewTest2@1933fd1]" name="aftersuite" is-config="true" duration-ms="1" started-at="2018-03-21T07:58:12Z" finished-at="2018-03-21T07:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- one.NewTest -->
+      <class name="one.NewTest2">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:one.NewTest2@1933fd1]" name="beforeclass" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:one.NewTest2@1933fd1]" name="beforemethod" is-config="true" duration-ms="1" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testclass()[pri:0, instance:one.NewTest2@1933fd1]" name="testclass" duration-ms="1" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclass -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:one.NewTest2@1933fd1]" name="aftermethod" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:one.NewTest2@1933fd1]" name="afterclass" is-config="true" duration-ms="0" started-at="2018-03-21T07:58:11Z" finished-at="2018-03-21T07:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- one.NewTest2 -->
+    </test> <!-- AnyName -->
+  </suite> <!-- Anyname -->
+</testng-results>
